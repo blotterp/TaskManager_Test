@@ -1,4 +1,5 @@
 # README
+Author: Ekaterina Kulakova (sharpeika334@gmail.com). This is test RoR project
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
